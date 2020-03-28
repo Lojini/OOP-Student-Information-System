@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/sub-admin.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/model/Register.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/UpdateCourseServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/UpdateUserServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/dao/Userdao.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/UserRegister.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/UpdateMarksServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/signup.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/dao/Coursedao.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/AddSubjectServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/model/Subject.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/marks.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/ResetPassword.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/UpdateSubject.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/UpdateCourse.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/UserProfile.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/UpdateSubjectServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/ListCourses.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/ListSubjects.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/util/DbConnect.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/course-admin.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/AddTranscriptServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/AddMarksServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/controller/AddCourseServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/dao/Subjectdao.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/dao/IMarksdao.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/dao/Marksdao.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/src/java/com/oop/model/Course.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/OOP-Project/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>

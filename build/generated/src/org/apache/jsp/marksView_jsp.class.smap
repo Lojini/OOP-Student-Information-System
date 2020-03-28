@@ -1,0 +1,16 @@
+SMAP
+marksView_jsp.java
+JSP
+*S JSP
+*F
++ 0 marksView.jsp
+marksView.jsp
+*L
+5,41:46
+46,11:88
+56,2:99
+58,2:101,3
+60,4:107
+64,7:112
+70,31:119
+*E
